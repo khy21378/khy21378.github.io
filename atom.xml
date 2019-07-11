@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>C:/Users/86180/Documents/Gridea/output</id>
+    <title>Mac</title>
+    <updated>2019-07-11T15:00:29.299Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="C:/Users/86180/Documents/Gridea/output"/>
+    <link rel="self" href="C:/Users/86180/Documents/Gridea/output/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>C:/Users/86180/Documents/Gridea/output/images/avatar.png</logo>
+    <icon>C:/Users/86180/Documents/Gridea/output/favicon.ico</icon>
+    <rights>All rights reserved 2019, Mac</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>C:/Users/86180/Documents/Gridea/output/post/hello-gridea/index.html</id>
+        <link href="C:/Users/86180/Documents/Gridea/output/post/hello-gridea/index.html">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
