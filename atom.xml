@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khy21378.github.io/</id>
     <title>锦鲤</title>
-    <updated>2019-07-11T15:42:05.023Z</updated>
+    <updated>2019-07-11T15:45:34.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://khy21378.github.io/"/>
     <link rel="self" href="https://khy21378.github.io//atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://khy21378.github.io//images/avatar.png</logo>
     <icon>https://khy21378.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 锦鲤</rights>
+    <entry>
+        <title type="html"><![CDATA[纹身图]]></title>
+        <id>https://khy21378.github.io//post/wen-shen-tu</id>
+        <link href="https://khy21378.github.io//post/wen-shen-tu">
+        </link>
+        <updated>2019-07-11T15:44:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>保存使用</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>保存使用</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是第一篇尝试]]></title>
+        <id>https://khy21378.github.io//post/zhe-shi-di-yi-pian-chang-shi</id>
+        <link href="https://khy21378.github.io//post/zhe-shi-di-yi-pian-chang-shi">
+        </link>
+        <updated>2019-07-11T15:43:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>2019.7.11 桌面存图</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2019.7.11 桌面存图</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://khy21378.github.io//post/hello-gridea</id>
