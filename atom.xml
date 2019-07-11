@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khy21378.github.io/</id>
-    <title>Mac</title>
-    <updated>2019-07-11T15:23:39.786Z</updated>
+    <title>锦鲤</title>
+    <updated>2019-07-11T15:42:05.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://khy21378.github.io/"/>
     <link rel="self" href="https://khy21378.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>锦鲤的咸鱼躺</subtitle>
     <logo>https://khy21378.github.io//images/avatar.png</logo>
     <icon>https://khy21378.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Mac</rights>
+    <rights>All rights reserved 2019, 锦鲤</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://khy21378.github.io//post/hello-gridea</id>
